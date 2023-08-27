@@ -1,6 +1,6 @@
 # Trading
 
-I have created a Google Spreadsheet app for tracking "virtual" trades. Via the form in the sidebar, trades can be made (buying or selling). The trades sheet shows all trades that have been made. The inventory sheet shows the current inventory. The balance sheet shows how much money has been made with buying and selling.
+I have created a Google Sheets Apps Script app for tracking "virtual" trades. Via the form in the sidebar, trades can be made (buying or selling). The trades sheet shows all trades that have been made. The inventory sheet shows the current inventory. The balance sheet shows how much money has been made with buying and selling.
 
 ## How to install
 
