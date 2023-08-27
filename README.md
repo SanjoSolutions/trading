@@ -5,7 +5,7 @@ I have created a Google Spreadsheet app for tracking "virtual" trades. Via the f
 ## How to install
 
 1. Open the [spreadsheet](https://docs.google.com/spreadsheets/d/1iHS1Rn1EDHJKHHshx1qzJOUNGcj5RDHgkZmoopqTbfk/edit?usp=sharing).
-2. Make a copy of the spreadsheet via: File -> Make a copy. Confirm making a copy by pressing the button "Make a copy".
+2. Make a copy of the spreadsheet via File -> Make a copy. Confirm making a copy by pressing the button "Make a copy".
 3. Authorization of the apps script: After a while, the menu item "Trading" appears in the menu bar. Click the menu item "Trading" and select the option "Trade". Then it prompts with an "Authorization Required" dialog. Click the button "Continue". Then choose your account. Then click "Advanced". Then click to "Go to Trading (unsafe)". Then click the button "Allow".
 
 ## How to make trades
