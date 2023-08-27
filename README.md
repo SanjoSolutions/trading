@@ -10,7 +10,7 @@ I have created a Google Sheets Apps Script app for tracking "virtual" trades. Vi
 
 ## How to make trades
 
-Click the menu item "Trading" and select the option "Trade". On the right, a sidebar should appear. Here you can selection the action (buy or sell), the symbol of the stock and the amount.
+Click the menu item "Trading" and select the option "Trade". On the right, a sidebar should appear. Here you can select the action (buy or sell), the symbol of the stock and the amount.
 
 ## How to modify or extend the script
 
